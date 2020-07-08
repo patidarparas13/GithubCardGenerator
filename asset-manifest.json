@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GithubCardGenerator/static/css/main.42d9750f.chunk.css",
+    "main.js": "/GithubCardGenerator/static/js/main.3c5c9bd2.chunk.js",
+    "main.js.map": "/GithubCardGenerator/static/js/main.3c5c9bd2.chunk.js.map",
+    "runtime-main.js": "/GithubCardGenerator/static/js/runtime-main.0451f023.js",
+    "runtime-main.js.map": "/GithubCardGenerator/static/js/runtime-main.0451f023.js.map",
+    "static/js/2.77e0c8a1.chunk.js": "/GithubCardGenerator/static/js/2.77e0c8a1.chunk.js",
+    "static/js/2.77e0c8a1.chunk.js.map": "/GithubCardGenerator/static/js/2.77e0c8a1.chunk.js.map",
+    "index.html": "/GithubCardGenerator/index.html",
+    "precache-manifest.4ec75af65bec7f5dfd62a8ce559aaff8.js": "/GithubCardGenerator/precache-manifest.4ec75af65bec7f5dfd62a8ce559aaff8.js",
+    "service-worker.js": "/GithubCardGenerator/service-worker.js",
+    "static/css/main.42d9750f.chunk.css.map": "/GithubCardGenerator/static/css/main.42d9750f.chunk.css.map",
+    "static/js/2.77e0c8a1.chunk.js.LICENSE.txt": "/GithubCardGenerator/static/js/2.77e0c8a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0451f023.js",
+    "static/js/2.77e0c8a1.chunk.js",
+    "static/css/main.42d9750f.chunk.css",
+    "static/js/main.3c5c9bd2.chunk.js"
+  ]
+}
